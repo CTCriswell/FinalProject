@@ -10,11 +10,13 @@
   <article class="container">
     <div class="row">
       <div class="col-sm-4">
-          <img src="../img/{{ slug }}.jpg" alt="" class="img-fluid mb-4">
+          <img src="../img/{{ title }}.jpg" alt="" class="img-fluid mb-4">
+          <p>Image Author: <i>{{ author }}</i></p>
+          <p>CC License: {{ license | safe }}</p>
       </div>
       <div class="col-sm-8">
-          <h1>{{ title }}</h1>
-          <p>{{ blurb | safe }}</p>
+          <h1>{{ dog_name }}</h1>
+          <p>{{ description | safe }}</p>
       </div>
     </div>
   </article>

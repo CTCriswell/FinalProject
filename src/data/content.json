@@ -1,0 +1,69 @@
+{
+    "photos": [
+        {
+            "id": "1",
+            "name": "Ten-Ten is Hygenic",
+            "imgName": "Hygenic"
+        },
+        {
+            "id": "2",
+            "name": "Ten-Ten is Stoic",
+            "imgName": "Stoic"
+        },
+        {
+            "id": "3",
+            "name": "Ten-Ten is Charismatic",
+            "imgName": "Friendly"
+        },
+        {
+            "id": "4",
+            "name": "Ten-Ten is Alert",
+            "imgName": "Alert"
+        },
+        {
+            "id": "5",
+            "name": "Ten-Ten is Cheerful",
+            "imgName": "Dogsmile"
+        },
+        {
+            "id": "6",
+            "name": "Where did she go?",
+            "imgName": "Wheredidshego"
+        },
+        {
+            "id": "7",
+            "name": "A ride in the Car! She doesn't like these.",
+            "imgName": "carride"
+        },
+        {
+            "id": "8",
+            "name": "She's working hard",
+            "imgName": "naptime"
+        },
+        {
+            "id": "9",
+            "name": "She's chilling",
+            "imgName": "justvibin"
+        },
+        {
+            "id": "10",
+            "name": "Ten-Ten is classy",
+            "imgName": "linkedout"
+        },
+        {
+            "id": "11",
+            "name": "Ten-Ten is Charming",
+            "imgName": "Charming"
+        },
+        {
+            "id": "12",
+            "name": "Ten-Ten is cool",
+            "imgName": "TenTen Action"
+        },
+        {
+            "id": "13",
+            "name": "Ten-Ten is easygoing",
+            "imgName": "sunnyday"
+        }
+    ]
+}

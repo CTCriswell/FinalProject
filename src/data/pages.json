@@ -1,0 +1,15 @@
+{
+    "webpages": [
+      {
+        "slug": "index",
+        "title": "Home"
+      },
+      {
+        "slug": "Gallery",
+        "title": "Gallery"
+      },
+      {
+        "slug": "Hall of Dads",
+        "title": "Hall of Dads"
+      }
+]}

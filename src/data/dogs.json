@@ -1,0 +1,101 @@
+{
+  "breeds": [
+    {
+      "title": "ChowChow",
+      "dog_name": "The Chow-Chow",
+      "author": "Pereaz",
+      "license": "<a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'>Share Alike 4.0</a>",
+      "percent": "9%",
+      "description": "<p>The Chow Chow is an old dog breed from North China. Chow Chows are medium sized and have distinctive round ‘manes’ and thick hair. They look a bit like little dopey lion/bears. They have a lot of hair— shedding season is probably a pain.</p><p>They are known to be cleanly and dignified according to <a href=“https://www.akc.org/dog-breeds/chow-chow/” target=“_blank”> The American Kennel Club </a>, which ranks the Chow Chow 80 of the 284 dog breeds in the system.</p><p>I don’t really have any comments on this one, Ten-ten wise.</p>"
+    },
+    {
+      "title": "Pitbull_rapper",
+      "dog_name": "The Pitbull",
+      "author": "topstreetwear",
+      "license": "<a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank'>Share Alike 2.0</a>",
+      "percent": "39%",
+      "description": "<p>Pitbulls are a common dog breed in North America, and apparently their DNA is often found in mutts. Pitbull itself is a loose category, American Staffordshires are also often classified as Pits. There is notably a lot of controversy surrounding the breed; Ten-ten herself isn’t a violent dog. They’re also very strong, with defined musculature.</p><p>This is probably why Ten-Ten is so freakishly strong for her size, there’s a surprising amount of muscle squashed into that frame.</p>"
+    },
+    {
+      "title": "Australian_Cattle_Dog",
+      "dog_name": "The Australian Cattle Dog/Blue Heeler/Red Heeler",
+      "author": "Canarian",
+      "license": "<a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank'>Share Alike 3.0</a>",
+      "percent": "19%",
+      "description": "<p>As one of the three names of this dog implies, the Australian Cattle Dog was bred to herd cattle over distance. It is also called the ‘heeler’ because it is known to nip at the heels to herd cattle or people together. The Heeler is known to be an agile and strong breed that makes it a ideal working dog.</p><p> The <a href= “https://www.akc.org/dog-breeds/australian-cattle-dog/” target=“_blank”>American Kennel Club</a> ranks the Blue Heeler 51 out of the 284 breeds registered in the website. The website also notes that these dogs are high-energy, and related to the Dingo.</p><p>Ten-ten’s mom looked like a Blue Heeler, but Ten-ten looks nothing like her mom. Her face is sorta similar, I guess, maybe, kinda. She obsesses over herding her family together, so that checks out.</p>"
+    },
+    {
+      "title": "Beagle",
+      "dog_name": "The Beagle",
+      "author": "Jonatan De Geest",
+      "license": "<a href='https://creativecommons.org/licenses/by-sa/3.0/' target='_blank'>Share Alike 3.0</a>",
+      "percent": "8%",
+      "description": "<p>The Beagle is a small, friendly dog that originated in England. Apparently, the Beagle was bred originally for hunting hares. Beagles are gentle and friendly smaller dogs that make excellent family pets. Famous Beagles include Snoopy…</p><p>The <a href= “https://www.akc.org/dog-breeds/beagle/” target=“_blank”>American Kennel Club</a> recognizes the extreme popularity of the Beagle, which is ranked 7 out of 284 in dog breed popularity. The website notes the Beagles companionability and good personality.</p><p>We always assumed there was some beagle DNA in Ten-ten. Her (genetic) brother looks just like a beagle, and Ten-ten has similar features and patterns. She also howls. A lot.</p>"
+    },
+    {
+      "title": "Treeing-walker-coonhound",
+      "dog_name": "The Treeing Walker Coonhound",
+      "author": "",
+      "license": "Public Domain",
+      "percent": "9%",
+      "description": "<p>Thanks to their long legs, Coonhounds are swift and avid hunters. As the name implies, this dog breed was originally created to hunt raccoons (n.b. I do not condone the hunting of raccoons). They’re originally an English dog, and apparently are very loyal and dutiful.</p><p>The <a href= “https://www.akc.org/dog-breeds/treeing-walker-coonhound/” target=“_blank”>American Kennel Club</a> ranks the Coonhound high in affection, trainability, and and energy, although due to their relative obscurity they’re only ranked 151 out of 284.</p><p>The Coonhound probably accounts for many of Ten-ten’s beagle-esque features. It looks like a tall beagle to me.</p>"
+    },
+    {
+      "title": "AmericanStaff",
+      "dog_name": "The American Staffordshire Terrier",
+      "author": "Svensaka Mässan",
+      "license": "<a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'>Share Alike 4.0</a>",
+      "percent": "7%",
+      "description": "<p>The American Staffordshire Terrier is often confused with the Pit Bull Terrier, but they are a distinct breed with less controversy associated with the pedigree. They have similar builds, with larger frames and visible muscle. They are known to be courageous and loyal pets.</p><p>The <a href= “https://www.akc.org/dog-breeds/american-staffordshire-terrier/“ target=“_blank”>American Kennel Club</a> notes that American Staffordshire Terriers are very smart and affectionate. They ranked 81 out of 284 in the AKC dog popularity rankings.</p><p>Ten-ten is an incredibly affectionate dog. We don’t know where the intelligence part went.</p>"
+    }
+],
+
+  "example_prose": [
+    {
+      "type": "text",
+      "value": "This is an example of a multi-paragraph intro formatted in a Google Doc to be used for <a href=\"http://archieml.org/#demo\">ArchieML</a>. What is said here is not that important, but the structure of this text in the Google Doc is."
+    },
+    {
+      "type": "subhead",
+      "value": "This is subhead"
+    },
+    {
+      "type": "text",
+      "value": "This is the second paragraph of the text to show how to loop over the text."
+    },
+    {
+      "type": "text",
+      "value": "# this is a list embedded in the text"
+    },
+    {
+      "type": "list",
+      "value": [
+        {
+          "type": "text",
+          "value": "First list item."
+        },
+        {
+          "type": "text",
+          "value": "Second list item."
+        }
+      ]
+    }
+  ],
+  "example_image": [
+    {
+      "type": "text",
+      "value": "This is another freeform array of text with multiple paragraphs but in this case there is an image call between two paragraphs of the text."
+    },
+    {
+      "type": "img",
+      "value": {
+        "filename": "the-clown.jpg",
+        "alt": "the clown"
+      }
+    },
+    {
+      "type": "text",
+      "value": "This is the second graph of text. The image above will be placed between the two graphs using an image macro in the processors.njk file."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}The Hazel Fanpage{% endblock %}
+
+{% block page_description %}The index search description for this page goes here.{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <h2>Hall of Dads</h2>
+    <p> Ten-Ten is a haphazard mix of doggie DNA. Here, you can learn about some of her ancestors.</p>
+  </div>
+</div>
+<div class="container d-flex justify-content-center">
+  <div class="row">
+    {% for breed in dogs.breeds %}
+      <div class="col-md-3 justify-content-center polaroid">
+        <a href="pages/{{ breed.title }}.html">
+        <img src="img/{{ breed.title }}.jpg" alt="" class="img-fluid img-thumbnail dads">
+        <p class="caption">{{ breed.dog_name }}</p><p class="caption">{{ breed.percent }}</p></a>
+      </div>
+    {% endfor %}
+  </br> 
+  </div>
+</div>
+{% endblock %}

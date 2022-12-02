@@ -1,0 +1,17 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}The Hazel Fanpage{% endblock %}
+
+{% block page_description %}The index search description for this page goes here.{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    {% for photo in content.photos %}
+      <div class="col-md-3">
+        <img src="img/{{ photo.imgName }}.jpg" alt="" class="img-fluid justify-content-center Gallery">
+        <p class="photoTitles">{{ photo.name }}</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}
